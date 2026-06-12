@@ -46,7 +46,7 @@ export function Contact() {
                 </div>
                 <div>
                   <div className="text-xs uppercase tracking-widest text-accent mb-1 font-semibold">Email</div>
-                  <div className="text-lg text-primary font-serif">concierge@aureliastudio.com</div>
+                  <div className="text-lg text-primary font-serif">concierge@ureliastudio.com</div>
                 </div>
               </div>
               <div className="flex gap-6 items-start">

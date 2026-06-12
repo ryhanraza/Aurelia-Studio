@@ -33,7 +33,7 @@ export function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg md:text-xl font-light mb-10 tracking-wide max-w-xl opacity-90"
           >
-            Aurelia Studio creates sophisticated interiors that harmonize luxury with functionality for high-end residential and commercial spaces.
+            Urelia Studio creates sophisticated interiors that harmonize luxury with functionality for high-end residential and commercial spaces.
           </motion.p>
 
           <motion.div

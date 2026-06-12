@@ -46,7 +46,7 @@ export function About() {
             </h2>
             <div className="space-y-6 text-primary/70 leading-relaxed text-lg">
               <p>
-                Founded on the principles of refined aesthetics and uncompromising quality, Aurelia Studio is a premier interior design firm dedicated to creating spaces that tell a story of sophistication.
+                Founded on the principles of refined aesthetics and uncompromising quality, Urelia Studio is a premier interior design firm dedicated to creating spaces that tell a story of sophistication.
               </p>
               <p>
                 We believe that true luxury lies in the details. Our collaborative approach ensures that every project is a unique reflection of our clients' lifestyles, translated through a lens of modern timelessness and architectural integrity.

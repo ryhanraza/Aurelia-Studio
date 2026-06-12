@@ -4,7 +4,7 @@ import { Quote } from "lucide-react";
 
 const TESTIMONIALS = [
   {
-    text: "Aurelia Studio transformed our home into a sanctuary of elegance. Their attention to detail and understanding of our lifestyle was truly remarkable.",
+    text: "Urelia Studio transformed our home into a sanctuary of elegance. Their attention to detail and understanding of our lifestyle was truly remarkable.",
     author: "Eleanor Vanderbilt",
     role: "Private Homeowner"
   },

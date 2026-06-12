@@ -14,8 +14,8 @@ function Home() {
   return (
     <Layout>
       <SEO 
-        title="Aurelia Studio | Premium Interior Design & Architecture" 
-        description="Aurelia Studio creates sophisticated, timeless interiors for high-end residential and commercial spaces. Bespoke design services in New York."
+        title="Urelia Studio | Premium Interior Design & Architecture" 
+        description="Urelia Studio creates sophisticated, timeless interiors for high-end residential and commercial spaces. Bespoke design services in New York."
       />
       <Hero />
       <About />

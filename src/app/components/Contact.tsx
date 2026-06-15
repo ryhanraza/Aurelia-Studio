@@ -46,7 +46,7 @@ export function Contact() {
                 </div>
                 <div>
                   <div className="text-xs uppercase tracking-widest text-accent mb-1 font-semibold">Email</div>
-                  <div className="text-lg text-primary font-serif">concierge@ureliastudio.com</div>
+                  <div className="text-lg text-primary font-serif">mohammedryhan5675@gmail.com</div>
                 </div>
               </div>
               <div className="flex gap-6 items-start">
@@ -55,7 +55,7 @@ export function Contact() {
                 </div>
                 <div>
                   <div className="text-xs uppercase tracking-widest text-accent mb-1 font-semibold">Phone</div>
-                  <div className="text-lg text-primary font-serif">+1 (555) 123-4567</div>
+                  <div className="text-lg text-primary font-serif">+91 81254 57898</div>
                 </div>
               </div>
               <div className="flex gap-6 items-start">
@@ -108,8 +108,11 @@ export function Contact() {
                   />
                 </div>
                 <div>
-                  <label className="block text-[10px] uppercase tracking-widest text-primary/60 mb-2 font-semibold">Project Type</label>
-                  <select className="w-full bg-white border-b border-neutral-medium px-0 py-3 focus:border-accent outline-none transition-colors">
+                  <label htmlFor="project-type" className="block text-[10px] uppercase tracking-widest text-primary/60 mb-2 font-semibold">Project Type</label>
+                  <select
+                    id="project-type"
+                    className="w-full bg-white border-b border-neutral-medium px-0 py-3 focus:border-accent outline-none transition-colors"
+                  >
                     <option>Residential</option>
                     <option>Commercial</option>
                     <option>Consultation</option>

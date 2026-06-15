@@ -56,8 +56,8 @@ export function Footer() {
           <div>
             <h4 className="text-sm font-semibold tracking-widest uppercase mb-8 text-accent">Contact</h4>
             <ul className="space-y-4 text-sm text-white/70">
-              <li>concierge@ureliastudio.com</li>
-              <li>+1 (555) 123-4567</li>
+              <li>mohammedryhan5675@gmail.com</li>
+              <li>+91 81254 57898</li>
               <li>452 Sterling Ave, Chelsea</li>
               <li>New York, NY 10011</li>
             </ul>
